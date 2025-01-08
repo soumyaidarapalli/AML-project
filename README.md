@@ -18,4 +18,4 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Surprise
 Machine Learning Techniques: Collaborative Filtering, Matrix Factorization
 Results
 Model evaluations were conducted using RMSE, MAE, and precision-recall metrics.
-Recommendations generated through various techniques were compared to optimize performance and 
+Recommendations generated through various techniques were compared to optimize performance. 
